@@ -1,5 +1,5 @@
 sceneSetups:
-- path: "Assets/Scenes/Am\xE9lie/Cit\xE9Mini\xE8re_Amelie 1.unity"
+- path: "Assets/Scenes/Am\xE9lie/Cit\xE9Mini\xE8re_Amelie.unity"
   isLoaded: 1
   isActive: 1
   isSubScene: 0
