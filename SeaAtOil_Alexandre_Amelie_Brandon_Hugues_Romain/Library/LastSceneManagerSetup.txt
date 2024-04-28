@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Hugues/Blockout_Hugues.unity
+- path: Assets/Scenes/Blockout_Global.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
